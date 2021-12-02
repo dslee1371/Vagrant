@@ -1,11 +1,11 @@
 # Vagrant w/ hyper-v
 
-## scenario 1 - create Cent OS 7
+## scenario 1 - create CentOS 7
 ```
 # Prerequest
-Vagrant 설치
-Hyper-V 설치
-Vagrant 계정
+Install Hyper-V 
+Install Vagrant 
+Vagrant log in as ID/PW  
 
 # Run
 vagrant box add hashicop/precise64
